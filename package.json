@@ -1,11 +1,10 @@
 {
-    "name": "@gabrieldenac/dena-eslint-config",
+    "name": "@gabrieldenac/eslint-config",
     "version": "1.0.0",
-    "description": "",
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "github.com/GabrielDena/dena-eslintconfig"
+        "url": "github.com/GabrielDena/dena-eslint-config"
     },
     "author": "Gabriel Dena <gabrieldenac@hotmail.com>",
     "license": "ISC",
